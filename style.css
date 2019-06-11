@@ -3,6 +3,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-color: #cccccc;
+  font-family: 'Open Sans','Arial';
 }
 a.btn {
   background-color: rgb(255, 77, 77, 0.8);
@@ -13,6 +14,7 @@ a.btn {
   margin-bottom: auto;
   text-decoration: none;
   display: inline-block;
+  list-style-type: none;
 }
 .btn {
   border-radius: 10px;
@@ -32,13 +34,17 @@ main {
 footer {
   background-color: #2f2f2f;
   color: #fff;
-  height: 70px;
+  height: 50px;
 }
 img {
   margin-top: 7px;
   border-radius: 30px;
   position: relative;
   left: 7%;
+}
+.nombre{
+  color: red;
+  font-size:20px;
 }
 .video {
   text-align: center;
@@ -50,4 +56,15 @@ section {
 .primo {
   margin-top: 0px;
   border-radius: 0px;
+  position:static;
 }
+
+h1{
+	text-align: center;
+  font-size:40px;
+  padding:10px 20px 10px 20px;
+  margin: auto;
+ }
+ ul{
+   list-style-type: none;
+ }
