@@ -8,3 +8,11 @@ a.btn{
     text-decoration: none;
     display: inline-block;
 }
+.btn{
+	border-radius: 10px;
+	background-color: rgb(179, 255, 240,0.8);
+	padding: 10px 20px;
+	float: right;
+	margin-right: 790px;
+
+}
