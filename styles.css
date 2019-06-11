@@ -1,0 +1,10 @@
+a.btn{
+	background-color:rgb(255, 77, 77,0.8);
+	color:white;
+	padding: 10px 20px;
+	border-radius: 5px;
+    float: none;
+    margin-bottom: auto;
+    text-decoration: none;
+    display: inline-block;
+}
