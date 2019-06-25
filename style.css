@@ -15,6 +15,7 @@ a.btn {
   text-decoration: none;
   display: inline-block;
   list-style-type: none;
+  color: rgb(152,228,220);
 }
 .btn {
   border-radius: 10px;
@@ -22,7 +23,9 @@ a.btn {
   padding: 10px 20px;
   float: right;
   margin-right: 790px;
+
 }
+
 main {
   margin-top: 30px;
   margin-bottom: 30px;
