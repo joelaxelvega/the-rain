@@ -25,7 +25,7 @@ a.btn {
   margin-right: 790px;
 }
 
-main {
+#maincuerpo {
   margin-top: 30px;
   margin-bottom: 30px;
   background: radial-gradient(white, gray, white, gray);
@@ -73,3 +73,14 @@ h1{
  li{
    color: white;
  }
+#sinopsis{
+
+  color:red;
+  border-color:blue;
+  border: width 10px;
+
+
+
+
+
+}
