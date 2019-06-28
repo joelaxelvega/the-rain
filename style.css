@@ -73,14 +73,31 @@ h1{
  li{
    color: white;
  }
-#sinopsis{
 
-  color:red;
-  border-color:blue;
-  border: width 10px;
+ #temporada1{
+  
+  background-color: silver;
+  
+  border: white 8px groove;
+  padding: 3px 10px;
+border: white 5px solid;
+border-radius: 20px;
+color: black;
+opacity: 0.5;
+
+}
 
 
+#temporada2{
 
+background-color: silver;
+  
+  border: white 8px groove ;
+  padding: 3px 10px;
+border: white 5px solid;
+border-radius: 20px;
+color:black;
 
+  opacity: 0.5;
 
 }
